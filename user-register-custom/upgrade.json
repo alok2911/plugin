@@ -3,7 +3,7 @@
 	"slug" : "check-update-checker",
 	"author" : "<a href='https://alok.com'>Alok</a>",
 	"version" : "1.2",
-	"download_url" : "/plugintest/wp-content/plugins/user-register-custom/updater/user-register-custom.zip",
+	"download_url" : "http://localhost/plugintest/wp-content/plugins/user-register-custom/updater/user-register-custom.zip",
 	"requires" : "5.0",
 	"tested" : "6.1.1",
 	"requires_php" : "7.4",
