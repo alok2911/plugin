@@ -1,0 +1,20 @@
+{
+	"name" : "Custom fields Registration Update Checker",
+	"slug" : "check-update-checker",
+	"author" : "<a href='https://alok.com'>Alok</a>",
+	"version" : "1.2",
+	"download_url" : "http://localhost/plugintest/wp-content/plugins/user-register-custom/updater/user-register-custom.zip",
+	"requires" : "5.0",
+	"tested" : "6.1.1",
+	"requires_php" : "7.4",
+	"last_updated" : "2022-12-3 11:10:00",
+	"sections" : {
+		"description" : "This plugin is change some fields, only gets updates from a same server",
+		"installation" : "Click the activate button.",
+		"changelog" : "<h4>1.1 –  3 Dec 2022</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
+	},
+	"banners" : {
+		"low" : "http://localhost/plugintest/wp-content/plugins/user-register-custom/assets/images/1.jpg",
+		"high" : "http://localhost/plugintest/wp-content/plugins/user-register-custom/assets/images/2.jpg"
+	}
+}
