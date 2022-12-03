@@ -14,7 +14,7 @@
 		"changelog" : "<h4>1.1 –  3 Dec 2022</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
 	},
 	"banners" : {
-		"low" : "http://localhost/plugintest/wp-content/plugins/user-register-custom/assets/images/1.jpg",
-		"high" : "http://localhost/plugintest/wp-content/plugins/user-register-custom/assets/images/2.jpg"
+		"low" : "https://github.com/alok2911/plugin/tree/main/user-register-custom/assets/images/1.jpg",
+		"high" : "https://github.com/alok2911/plugin/tree/main/user-register-custom/assets/images/2.jpg"
 	}
 }
